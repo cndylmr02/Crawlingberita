@@ -1,7 +1,11 @@
-source `https://rubygems.org`
-gem `github-pages`
+# source `https://rubygems.org`
+# gem `github-pages`
 
-language: ruby
-rvm:
-  - 2.3
-script: "bundle exec jekyll build"
+# language: ruby
+# rvm:
+#   - 2.3
+# script: "bundle exec jekyll build"
+
+layout: page
+title: "Crawlingberita"
+permalink: /URL-PATH
